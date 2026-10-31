@@ -1,0 +1,25 @@
+# Local Environment Secrets
+.env
+*.env
+
+# Python caching systems
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Streamlit operational configurations
+.streamlit/
+temp_runtime_incident.jpg
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+.env/
+.env
+# OS-specific files
+.DS_Store
+Thumbs.db
